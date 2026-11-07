@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="banner.png"style="border-radius:20px;">
+  <img src="banner.png"style="border-radius:20%;">
 <pre>
   _  __ _           _               _ 
  | |/ /| |__   __ _(_) _ __  _   _ | |
