@@ -43,9 +43,9 @@ I have a strong affinity for terminal-inspired ASCII aesthetics, Neobrutalism, o
 ### `>_ sys_stats.sh`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&bg_color=000000&title_color=00ff00&text_color=00aa00&icon_color=00ff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub System Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?Khairulajisyafii&bg_color=000000&title_color=00ff00&text_color=00aa00&icon_color=00ff00&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub System Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&bg_color=000000&title_color=00ff00&text_color=00aa00&hide_border=true&layout=compact" alt="Compiled Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==Khairulajisyafii&bg_color=000000&title_color=00ff00&text_color=00aa00&hide_border=true&layout=compact" alt="Compiled Languages" />
   <br/>
   <br/>
   <p>
