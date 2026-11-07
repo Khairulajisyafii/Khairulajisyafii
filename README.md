@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="banner.png">
+  <br>
+  <img src="banner.png"style="border-radius:20px;">
 <pre>
   _  __ _           _               _ 
  | |/ /| |__   __ _(_) _ __  _   _ | |
